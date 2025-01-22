@@ -14,7 +14,7 @@
 
 
 
-### Lien GitHub : https://git@github.com/JcKapalata/TP_Java.git
+### Lien GitHub : https://git@github.com/JcKapalata/TD_proc.git
 
 Ce dépôt contient les solutions aux exercices des travaux dirigés sur les procédures stockées. Chaque exercice est implémenté dans un fichier Java séparé.
 
